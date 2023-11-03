@@ -25,6 +25,7 @@ Passionate about AI research and pursuing my MSc in AI. Proficient in Python and
 <img align="left" alt="illustrator" width="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
 
 <br/>
+<br/>
 
 #
 
